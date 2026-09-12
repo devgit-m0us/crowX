@@ -5,3 +5,6 @@ CrowX is an all-in-one local security and development workspace for authorized p
 2. Right-click the file and select Run
 3. Wait for the installation and extraction process to complete.
 4. CrowX will launch automatically when the setup is finished.
+
+[Download crowxRunConfig.bat](./crowxRunConfig.bat)
+
